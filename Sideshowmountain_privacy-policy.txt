@@ -1,0 +1,114 @@
+PRIVACY POLICY
+
+Sideshowmountain_MCP_Poster
+
+Effective Date: November 22, 2026
+Last Updated: November 22, 2026
+
+This Privacy Policy describes how Sideshowmountain ("we," "us," or "our") collects, uses, and shares information about you when you use Sideshowmountain_MCP_Poster (the "Service"), available at https://github.com/sideshowmountain/legal.
+
+By using the Service, you agree to the collection and use of information in accordance with this policy.
+
+─────────────────────────────────────────────
+
+1. INFORMATION WE COLLECT
+
+We may collect the following categories of information:
+
+   • Minimal technical information necessary to operate the Service, such as server logs and basic usage statistics.
+
+─────────────────────────────────────────────
+
+2. HOW WE USE YOUR INFORMATION
+
+We use the information we collect for the following purposes:
+
+   • To provide, operate, and maintain the Service
+   • To improve, personalize, and expand the Service
+   • To communicate with you, including responding to inquiries and sending important notices
+   • To comply with legal obligations and enforce our policies
+
+─────────────────────────────────────────────
+
+3. SHARING YOUR INFORMATION
+
+We do not sell, trade, or rent your personal information to third parties. We may share aggregate, anonymized data that does not identify any individual for analytical or business purposes.
+
+We may disclose information if required by law, court order, or to protect the rights, property, or safety of Sideshowmountain, our users, or others.
+
+─────────────────────────────────────────────
+
+4. DATA SECURITY
+
+We implement appropriate technical and organizational security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. These measures include:
+
+   • Encryption of data in transit using TLS/SSL protocols
+   • Secure storage with access controls and authentication
+
+However, no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+
+─────────────────────────────────────────────
+
+5. DATA RETENTION
+
+We retain your information for as long as necessary to fulfill the purposes described in this policy, unless a longer retention period is required or permitted by law. When information is no longer needed, we securely delete or anonymize it.
+
+─────────────────────────────────────────────
+
+6. CHILDREN'S PRIVACY
+
+Our Service is not directed at children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at sideshowmountain@gmail.com. We will take steps to remove such information from our servers.
+
+─────────────────────────────────────────────
+
+7. YOUR RIGHTS UNDER GDPR (EU/EEA USERS)
+
+If you are located in the European Union or European Economic Area, you have the following rights under the General Data Protection Regulation (GDPR):
+
+   • Right to Access: You have the right to request a copy of the personal data we hold about you.
+   • Right to Rectification: You have the right to request correction of inaccurate or incomplete data.
+   • Right to Erasure ("Right to be Forgotten"): You may request deletion of your personal data under certain circumstances.
+   • Right to Restriction of Processing: You may request that we limit how we use your data.
+   • Right to Data Portability: You have the right to receive your data in a structured, machine-readable format.
+   • Right to Object: You may object to our processing of your data for certain purposes, including direct marketing.
+   • Rights Related to Automated Decision-Making: You have the right not to be subject to solely automated decisions that significantly affect you.
+
+To exercise any of these rights, please contact us at sideshowmountain@gmail.com. We will respond to your request within 30 days. You also have the right to lodge a complaint with your local data protection authority.
+
+Our legal basis for processing personal data includes your consent, the performance of a contract, compliance with legal obligations, and our legitimate business interests.
+
+─────────────────────────────────────────────
+
+8. YOUR RIGHTS UNDER CCPA (CALIFORNIA RESIDENTS)
+
+If you are a California resident, the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA) provide you with specific rights:
+
+   • Right to Know: You have the right to request disclosure of the categories and specific pieces of personal information we have collected about you, the sources, the business purpose, and the categories of third parties with whom we share it.
+   • Right to Delete: You have the right to request deletion of personal information we have collected from you, subject to certain exceptions.
+   • Right to Opt-Out of Sale: You have the right to opt out of the sale of your personal information. We do not sell your personal information.
+   • Right to Non-Discrimination: We will not discriminate against you for exercising your CCPA rights.
+   • Right to Correct: You have the right to request correction of inaccurate personal information.
+   • Right to Limit Use of Sensitive Personal Information: You may request that we limit the use of sensitive personal information.
+
+To submit a verifiable consumer request, contact us at sideshowmountain@gmail.com. We will respond within 45 days of receiving a verifiable request. You may designate an authorized agent to make requests on your behalf.
+
+CalOPPA Disclosure: We agree to the following under the California Online Privacy Protection Act: users can visit our site anonymously; we will add a link to this Privacy Policy on our home page; our Privacy Policy link includes the word "Privacy"; users will be notified of any privacy policy changes on this page.
+
+─────────────────────────────────────────────
+
+9. CONTACT US
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+
+   Sideshowmountain
+   Email: sideshowmountain@gmail.com
+   Website: https://github.com/sideshowmountain/legal
+   Country: United States
+
+We will respond to your inquiry within a reasonable time frame.
+
+─────────────────────────────────────────────
+
+10. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes. Changes are effective when they are posted on this page.
